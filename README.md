@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently Studing **BCA**
 
-- 🌱 I’m currently learning **Languages**
+- 🌱 I’m currently learning **MERN STACK And DATA STRUCTURES AND ALGORITHM**
 
-- 💬 Ask me about **C,C++,Python**
+- 💬 Ask me about **C,C++,JAVASCRIPT**
 
 - 📫 How to reach me **sayanduary@gmail.com**
 
