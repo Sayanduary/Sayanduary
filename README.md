@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN STACK And DATA STRUCTURES AND ALGORITHM**
 
-- 💬 Ask me about **C,C++,JAVASCRIPT**
+- 💬 Ask me about **C,C++,JAVASCRIPT,JAVA**
 
 - 📫 How to reach me **sayanduary@gmail.com**
 
