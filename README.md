@@ -1,8 +1,11 @@
 <!-- AMOLED Dark GitHub Profile for Sayan -->
 
+<!-- 🌊 Wavy Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,100:00ffff&height=200&section=header&text=S%20A%20Y%20A%20N&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Backend%20Developer%20|%20Problem%20Solver&descAlignY=50&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=S%20A%20Y%20A%20N&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=50&descAlign=50" width="100%" />
 </div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=435&height=50&lines=BACKEND+ENGINEER;C%2FC%2B%2B+PROGRAMMER;JAVA+DEVELOPER;" />
@@ -117,6 +120,7 @@ const developer = {
   <img src="https://komarev.com/ghpvc/?username=sayanduary&style=for-the-badge&color=00FFFF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
+<!-- 🌊 Wavy Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:6600ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=footer" width="100%" />
 </div>
