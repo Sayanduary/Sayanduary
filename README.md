@@ -26,9 +26,8 @@ const developer = {
   interests: ["Coding", "Problem Solving", "Technology"],
   socialMedia: {
     email: "sayanduary@gmail.com",
-    linkedin: "sayan-duary-774319287",
+    linkedin: "/in/sayan-duary/",
     instagram: "sayan_ify",
-    youtube: "@sayanduary4016"
   },
   motto: "Building digital bridges between dreams and reality"
 }
@@ -79,22 +78,12 @@ const developer = {
     <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
     <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC" />
     <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116 <a href="https://leetcode.com/u/SAYANDUARY/" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 
   </p>
 </div>
 
-## `> GitHub Stats`
 
-<div align="center">
-  <a href="https://github.com/sayanduary">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sayanduary&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&text_color=FFFFFF&icon_color=6600FF&bg_color=000000" alt="Sayan's GitHub Stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanduary&layout=compact&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Sayan's Most Used Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanduary&background=000000&stroke=6600FF&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
