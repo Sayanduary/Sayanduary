@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=435&height=50&lines=Backend+Engineer;C%2FC%2B%2B+Programmer;Java+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=435&height=50&lines=BACKEND+ENGINEER;C%2FC%2B%2B+PROGRAMMER;JAVA+DEVELOPER;" />
 </div>
 
 <p align="center">
