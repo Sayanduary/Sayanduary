@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheme name="BeardedTheme Monokai Black" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2024-07-10T05:07:00</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2023.3.0.0</property>
+    <property name="modified">2024-07-10T05:07:00</property>
+    <property name="originalScheme">BeardedTheme Monokai Black</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="c7c7c7" />
+    <option name="CARET_ROW_COLOR" value="1a1a1a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
+    <option name="GUTTER_BACKGROUND" value="141414" />
+    <option name="INDENT_GUIDE" value="2a2a2a" />
+    <option name="LINE_NUMBERS_COLOR" value="545454" />
+    <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
+    <option name="SELECTION_BACKGROUND" value="3d3d3d" />
+    <option name="SELECTION_FOREGROUND" value="c7c7c7" />
+    <option name="SEPARATOR_BELOW_COLOR" value="2a2a2a" />
+    <option name="TEARLINE_COLOR" value="2a2a2a" />
+    <option name="TOOLTIP_BACKGROUND" value="1a1a1a" />
+    <option name="TOOLTIP_FOREGROUND" value="c7c7c7" />
+  </colors>
+  <attributes>
+    <!-- Default text and background -->
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="c7c7c7" />
+        <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
+    
+    <!-- Keywords -->
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <!-- Strings -->
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="a9dc76" />
+      </value>
+    </option>
+    
+    <!-- Comments -->
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545454" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545454" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <!-- Numbers -->
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="fc6a67" />
+      </value>
+    </option>
+    
+    <!-- Identifiers -->
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="c7c7c7" />
+      </value>
+    </option>
+    
+    <!-- Functions -->
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+      </value>
+    </option>
+    
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <!-- Classes and Types -->
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <!-- Variables -->
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="ff6188" />
+      </value>
+    </option>
+    
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff6188" />
+      </value>
+    </option>
+    
+    <!-- Parameters -->
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e991e3" />
+      </value>
+    </option>
+    
+    <!-- Constants -->
+    <option name="DEFAULT_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="fc6a67" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="fc6a67" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <!-- Properties -->
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="fc9867" />
+      </value>
+    </option>
+    
+    <!-- Java specific -->
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="JAVA_STRING">
+      <value>
+        <option name="FOREGROUND" value="a9dc76" />
+      </value>
+    </option>
+    
+    <option name="JAVA_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="fc6a67" />
+      </value>
+    </option>
+    
+    <option name="JAVA_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545454" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545454" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <!-- JavaScript specific -->
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff6188" />
+      </value>
+    </option>
+    
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff6188" />
+      </value>
+    </option>
+    
+    <option name="JS.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e991e3" />
+      </value>
+    </option>
+    
+    <option name="JS.FUNCTION_NAME">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+      </value>
+    </option>
+    
+    <!-- TypeScript specific -->
+    <option name="TS.TYPE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+      </value>
+    </option>
+    
+    <!-- Python specific -->
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="PY.STRING">
+      <value>
+        <option name="FOREGROUND" value="a9dc76" />
+      </value>
+    </option>
+    
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="fc6a67" />
+      </value>
+    </option>
+    
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545454" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="PY.FUNCTION_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <!-- C/C++ specific -->
+    <option name="C_STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="fc9867" />
+      </value>
+    </option>
+    
+    <option name="C_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <!-- XML/HTML -->
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+      </value>
+    </option>
+    
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="fc9867" />
+      </value>
+    </option>
+    
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a9dc76" />
+      </value>
+    </option>
+    
+    <!-- CSS -->
+    <option name="CSS.PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="fc9867" />
+      </value>
+    </option>
+    
+    <option name="CSS.PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a9dc76" />
+      </value>
+    </option>
+    
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+      </value>
+    </option>
+    
+    <!-- Error and warning highlighting -->
+    <option name="ERROR_ELEMENT">
+      <value>
+        <option name="EFFECT_COLOR" value="ff6188" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="WARNING_ELEMENT">
+      <value>
+        <option name="EFFECT_COLOR" value="ffd866" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <!-- Search results -->
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3d3d3d" />
+        <option name="EFFECT_COLOR" value="78dce8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <!-- Matched brace -->
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3d3d3d" />
+        <option name="EFFECT_COLOR" value="78dce8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <!-- TODO comments -->
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="ffd866" />
+      </value>
+    </option>
+    
+    <!-- Documentation -->
+    <option name="DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545454" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <!-- Injected language -->
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="1a1a1a" />
+      </value>
+    </option>
+    
+    <!-- Text attributes -->
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="c7c7c7" />
+        <option name="BACKGROUND" value="141414" />
+      </value>
+    </option>
+    
+    <!-- Semantic highlighting -->
+    <option name="SEMANTIC_HIGHLIGHTING.CLASS">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.ENUM">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.TYPE_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.METHOD">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="78dce8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.FIELD">
+      <value>
+        <option name="FOREGROUND" value="ff6188" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="fc6a67" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="fc9867" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e991e3" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff6188" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.NAMESPACE">
+      <value>
+        <option name="FOREGROUND" value="ab9df2" />
+      </value>
+    </option>
+    
+    <option name="SEMANTIC_HIGHLIGHTING.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ffd866" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
