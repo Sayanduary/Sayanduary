@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:111827,100:0f172a&text=Sayan%20Duary&fontSize=50&color=00F5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Generative%20AI%20Developer&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:1a0611,100:000000&text=Sayan%20Duary&fontSize=50&color=FF2E63&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Generative%20AI%20Developer&descAlignY=56"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineer;Generative+AI+Developer;Building+Scalable+Applications;Node.js+%7C+React+%7C+Next.js+%7C+TypeScript;LangChain+%7C+RAG+Systems;Docker+%7C+Kubernetes;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=900&color=FF2E63&background=00000000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineer;Generative+AI+Developer;Building+Scalable+Applications;Node.js+%7C+React+%7C+Next.js+%7C+TypeScript;LangChain+%7C+RAG+Systems;Docker+%7C+Kubernetes;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/sayanduary?style=for-the-badge&color=00F5FF&labelColor=000000">
-<img src="https://img.shields.io/github/stars/sayanduary?style=for-the-badge&color=7C3AED&labelColor=000000">
-<img src="https://komarev.com/ghpvc/?username=sayanduary&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/github/followers/sayanduary?style=for-the-badge&color=FF2E63&labelColor=000000">
+<img src="https://img.shields.io/github/stars/sayanduary?style=for-the-badge&color=FF0844&labelColor=000000">
+<img src="https://komarev.com/ghpvc/?username=sayanduary&style=for-the-badge&color=FF2E63&label=PROFILE+VIEWS">
 
 </div>
 
@@ -167,11 +167,11 @@ CMD ["node", "dist/main.js"]
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanduary&theme=radical&background=0d1117&stroke=00F5FF&ring=7C3AED&fire=00F5FF&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=00F5FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanduary&theme=radical&background=0d0d0d&stroke=FF2E63&ring=FF0844&fire=FF2E63&currStreakNum=FF2E63&sideNums=FF2E63&currStreakLabel=FF0844&sideLabels=FF0844&dates=FF2E63" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sayanduary&theme=radical&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&custom_title=Weekly%20Coding%20Activity" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sayanduary&theme=radical&bg_color=0d0d0d&title_color=FF2E63&text_color=c9d1d9&custom_title=Weekly%20Coding%20Activity" />
 </div>
 
 ---
@@ -187,5 +187,5 @@ CMD ["node", "dist/main.js"]
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:111827,100:0f172a&text=Thanks%20for%20Visiting!&fontSize=30&color=00F5FF&animation=fadeIn&fontAlignY=50&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:1a0611,100:000000&text=Thanks%20for%20Visiting!&fontSize=30&color=FF2E63&animation=fadeIn&fontAlignY=50&section=footer"/>
 </div>
